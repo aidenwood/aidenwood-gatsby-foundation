@@ -1,12 +1,11 @@
 ---
 template: index-page
 slug: /
-title: Wyatt Morriss
-tagline: Graphic Designer
+title: Aiden Wood
+tagline: CSS Freak // JS/TS // React // Next.JS
 featuredImage: /assets/toa-heftiba-0rlfirsdvzu-unsplash.jpg
 cta:
-  ctaText: Know more
-  ctaLink: /about
+  ctaText: Get Started
+  ctaLink: https://sitelabanalytics.com/
 ---
-
-He is a award winning gaming graphic designer, based in sunny side of California. Working as Principal designer at Bethesda
+Working as a Web Designer on the Gold Coast, I specialise in CSS-focused static site or JamStack web development these days, aiming unbeatable TTFB's. Also managing omni-channel digital marketing campaigns in a personalised way, maybe never seen before at <a href="https://sitelabanalytics.com/" alt="Gold Coast web design and digital marketing">sitelabanalytics.com</a>
