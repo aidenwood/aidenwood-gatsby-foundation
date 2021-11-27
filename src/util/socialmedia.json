@@ -2,15 +2,11 @@
   "socialIcons": [
     {
       "icon": "facebook",
-      "url": "https://www.facebook.com/stackrolecom"
+      "url": "https://www.facebook.com/sitelabanalytics"
     },
     {
       "icon": "instagram",
-      "url": "https://www.instagram.com/stackrole/"
-    },
-    {
-      "icon": "linkedin",
-      "url": "https://in.linkedin.com/company/stackrole"
+      "url": "https://www.instagram.com/sitelabanalytics/"
     },
     {
       "icon": "youtube",
@@ -18,7 +14,7 @@
     },
     {
       "icon": "dribbble",
-      "url": "https://dribbble.com/stackrole"
+      "url": "https://dribbble.com/aidenwood"
     }
   ]
 }
