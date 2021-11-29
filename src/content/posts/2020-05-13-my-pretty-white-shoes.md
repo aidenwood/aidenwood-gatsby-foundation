@@ -1,10 +1,13 @@
 ---
 template: blog-post
-title: Extreme gaming extravaganza
-slug: /gaming-extravaganza
+title: Flexbox Section Recipes - Elegant CSS
+slug: /flexbox-page-container-code
 date: 2020-05-13 12:55
-description: How we scaled an Extreme gaming extravaganza
+description: FlexBox page layout container code snippet
 featuredImage: /assets/fredrick-tendong-hvyepjyehdq-unsplash.jpg
 ---
+To make development faster for your plain HTML or custom CSS website, we help put together clean useful CSS and HTML baseplates. Check out more code snippets in the DesignLab.
 
-My Pretty White ShoesMy Pretty White ShoesMy Pretty White ShoesMy Pretty White ShoesMy Pretty White ShoesMy Pretty White ShoesMy Pretty White Shoes
+
+
+https://codepen.io/aidenwood/pen/abwYMOw
